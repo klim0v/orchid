@@ -12,5 +12,7 @@ return [
     | the aliases are "lazy" loaded so they don't hinder performance.
     |
     */
-    'widgets' => [],
+    'widgets' => [
+        'menu' => App\Http\Widgets\MenuWidget::class,
+    ],
 ];

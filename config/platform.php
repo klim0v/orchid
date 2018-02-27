@@ -87,9 +87,9 @@ return [
         ],
         'ru' => [
             'name'     => 'Russian',
-            'script'   => 'Latn',
-            'dir'      => 'ltr',
-            'native'   => 'English',
+            'script'   => 'Rus',
+            'dir'      => 'rus',
+            'native'   => 'Russian',
             'regional' => 'ru_RU',
         ],
     ],
